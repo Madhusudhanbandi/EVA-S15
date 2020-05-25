@@ -21,13 +21,14 @@ Different data augmentation like Normalize, cutout were used for BG and FG image
 Training:
 
 To train our model tried with different loss functions like MSELoss, BCELoss, BCELossWithLogits, and got good results with BCELoss
-There were 10M parameters in our model.
+
+Parameters: 10M 
 
 To evaluate model used SSIM (Structural Similarity Index) for both mask and depth images to compare with real mask and depth images.
 
 Results:
-Link to notebook
 
+Link to notebook:
 https://github.com/Madhusudhanbandi/EVA-S15/blob/master/EVA_S15_ASSIG.ipynb
 
 ![Predicted_MD_images](https://user-images.githubusercontent.com/19210895/82812050-bae11500-9eaf-11ea-97dd-094870129cfc.JPG)
