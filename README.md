@@ -33,6 +33,7 @@ https://github.com/Madhusudhanbandi/EVA-S15/blob/master/EVA_S15_ASSIG.ipynb
 
 ![Predicted_MD_images](https://user-images.githubusercontent.com/19210895/82812050-bae11500-9eaf-11ea-97dd-094870129cfc.JPG)
 
+![BCELoss](https://user-images.githubusercontent.com/19210895/82870550-c3882880-9f4d-11ea-82d2-c36dae784510.JPG)
 
 Reference for architecture:
 https://link.springer.com/article/10.1007/s11263-019-01183-3
